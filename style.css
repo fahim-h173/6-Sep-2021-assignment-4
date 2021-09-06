@@ -48,10 +48,18 @@ div#headerArea {
 .navBar ul li a {
   text-decoration: none;
   color: #333;
+  transition: 0.4s;
+  
+}
+.navBar ul li a:hover{
+  background-color: #282e40;
+  border-radius: 3px;
+  padding: 5px;
+  color: wheat;
 }
 
 .navBar {
-  width: 600px;
+  width: 620px;
   float: right;
 }
 
