@@ -245,3 +245,194 @@ section#ourFruits {
   font-size: 50px;
   color: #fff;
 }
+section#freshLemon {
+  overflow: hidden;
+}
+
+.lemonImg {
+  width: 50%;
+  float: right;
+}
+
+.lemonImg img {
+  width: 100%;
+}
+
+.LemonText {
+  width: 43%;
+  margin-left: 72px;
+  float: left;
+}
+.lemon button{
+  border: none;
+    background: #282e40;
+    color: #d4d1d1;
+    padding: 20px 40px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-top: 35px;
+    cursor: pointer;
+    margin-left: 72px;
+}
+.LemonText p {
+  font-size: 20px;
+  line-height: 1.5;
+}
+
+.LemonText h1 {
+  font-size: 63px;
+  font-weight: 900;
+  color: #5293b7;
+}
+section#ourBlog {
+  background: #282e40;
+  overflow:hidden;
+}
+.bImage {
+  width: 350px;
+  position: relative;
+}
+
+.bImage img {
+  width: 100%;
+}
+
+.bText {
+  background: #12c6f4;
+  padding: 15px 31px;
+  z-index: -1;
+}
+
+.bText span {
+  font-size: 18px;
+  color: white;
+}
+.bText p {
+  font-size:16px
+}
+.skew {
+  background: #12c6f4;
+  height: 50px;
+  width: 350px;
+  position: absolute;
+  left: 143px;
+  bottom: -2696px;
+}
+.skew1 {
+  background: #12c6f4;
+  height: 50px;
+  width: 350px;
+  position: absolute;
+  left: 513px;
+  bottom: -2696px;
+}
+.skew2 {
+  background: #12c6f4;
+  height: 50px;
+  width: 350px;
+  position: absolute;
+  left: 883px;
+  bottom: -2696px;
+}
+.singleBlog {
+  width: 350px;
+  margin-right: 20px;
+  float: left;
+  margin-bottom: 40px;
+}
+
+.callImg {
+  width: 50%;
+  float: left;
+}
+
+section#callUs {
+  overflow: hidden;
+}
+
+.callImg img {
+  width: 100%;
+}
+
+.inputs {
+  width: 50%;
+  float: right;
+  padding: 0px 100px;
+}
+
+.inputs {}
+
+
+.inputs p {
+  font-size: 51px;
+  font-weight: 700;
+  color: #282e40;
+}
+
+.inputs p span {
+  color: #12c6f4;
+}
+
+.name input {
+  outline: none;
+  border: none;
+  margin: 20px 0px;
+  background: #282e40;
+  padding: 17px;
+  width: 100%;
+  color: #fff;
+}
+.email input {
+  outline: none;
+  border: none;
+  margin: 20px 0px;
+  background: #282e40;
+  padding: 17px;
+  width: 100%;
+  color: #fff;
+}
+.phone input {
+  outline: none;
+  border: none;
+  margin: 20px 0px;
+  background: #282e40;
+  padding: 17px;
+  width: 100%;
+  color: #fff;
+}
+.textArea textarea {
+  margin-bottom: 37px;
+  padding: 25px 25px;
+  color: #fff;
+  max-width: 568px;
+  border: none;
+  border-radius: 0;
+  min-height: 145px;
+  background: #282e40;
+  width: 100%;
+  outline: none;
+  line-height: 1.5em;
+}
+.callBTN button{
+  border: none;
+  background: #282e40;
+  color: #d4d1d1;
+  padding: 20px 40px;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-top: 35px;
+  cursor: pointer;
+  
+}
+#copyArea{
+  background-color: #046882;
+  height: 50px;
+  width: 100%;
+  text-align: center;
+}
+.copyText{
+  
+  text-align: center;
+  color: rgb(236, 234, 234);
+
+}
